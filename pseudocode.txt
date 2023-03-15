@@ -1,0 +1,14 @@
+Start
+Display website
+Display "menu of available drinks"
+Input chosen drink Check if chosen drink is available
+If chosen drink is available
+Input quantity of chosen drink
+Calculate total price
+Display summary of order and total price Input delivery and payment information
+Process payment
+Display confirmation message with estimated delivery time
+Else
+Display message that the chosen drink is unavailable
+Repeat from input chosen drink
+End
